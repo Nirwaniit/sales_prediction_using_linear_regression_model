@@ -60,8 +60,3 @@ Detailed analysis and insights from the project can be found in the [project rep
 
 Contributions to this project are welcome. Feel free to fork the repository, make improvements, and submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use the code and modify it according to your needs.
-
-For more details and information, please refer to the [License](LICENSE) file.
