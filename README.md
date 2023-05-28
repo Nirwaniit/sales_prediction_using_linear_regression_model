@@ -54,7 +54,6 @@ Refer to the documentation or code comments for a demonstration of how to use th
 
 The final model achieved an impressive accuracy rate of 91% in predicting sales based on advertising expenditures. This indicates the strong correlation between advertising investments in TV, radio, and newspaper and their impact on sales.
 
-Detailed analysis and insights from the project can be found in the [project report](link_to_report.pdf).
 
 ## Contributing
 
